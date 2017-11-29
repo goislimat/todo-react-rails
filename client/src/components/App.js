@@ -34,7 +34,10 @@ class App extends Component {
         <div className="col m4 offset-m4">
           <h4 className="center-align cursive">Todo com React & Rails</h4>
           <div className="right-align">
-            <a href="https://github.com/goislimat" target="_blank">
+            <a
+              href="https://github.com/goislimat/todo-react-rails"
+              target="_blank"
+            >
               /goislimat
             </a>
           </div>
